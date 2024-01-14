@@ -1,6 +1,6 @@
 # Who Wants to Be a Millionaire
 
-An interactive adaptation of the popular game show "Who Wants to Be a Millionaire?" into a playable online game
+An interactive adaptation of the popular game show "Who Wants to Be a Millionaire?" into a playable online game.
 
 # Requirements
 
